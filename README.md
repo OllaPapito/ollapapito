@@ -5,7 +5,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ollapapito&show_icons=true&theme=tokyonight)
 
-### Languages and tools that I use in my developments:
+### 🖥️ Languages and tools that I use in my developments:
 
 <div style="display: inline-block">
     <img aLign="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
