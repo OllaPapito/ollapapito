@@ -17,6 +17,6 @@
     <img aLign="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div><br><br>
 
-### 💡 Front-end development student, looking for my first entry level or junior dev job.
+### 💡 Frontend development student, looking for my first entry level or junior dev job.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollapapito&layout=compact)
