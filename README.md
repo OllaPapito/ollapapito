@@ -11,7 +11,6 @@
     <img aLign="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img aLign="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img aLign="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img aLign="center" alt="ruby" src="https://img.shields.io/badge/Ruby-323330?style=for-the-badge&logo=ruby&logoColor=FF0000">
     <img aLign="center" alt="Sass" src="https://img.shields.io/badge/sass-323330?style=for-the-badge&logo=sass&logoColor=ZZ0000">
     <img aLign="center" alt="php" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=F7DF1E">
     <img aLign="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
