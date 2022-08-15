@@ -1,4 +1,4 @@
-## Hi, I'm Adrian Aguiar 😄👋
+## Hi, I'm Adrian Aguiar 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-ag/)
 [![Blog](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://pt.stackoverflow.com/users/275508/adrian-aguiar)
